@@ -4,7 +4,7 @@ The bundle.js is uploaded now, for people to use just npm install and npm start 
 
 ## My Contribution
 
-I was building the whole front-end react and back-end router. This is the first time I'm using react and I found its components can seperate functionality of the website easily, which makes the development of each part of the website clearer. I tried not to write react inside the html directly to reduce the readability.
+I was building the whole front-end react and back-end router. This is the first time I'm using react and I found its components can seperate functionality of the website easily, which makes the development of each part of the website clearer. I tried not to write react inside the html directly which may reduce the readability.
 
 ## Some Idea
 
