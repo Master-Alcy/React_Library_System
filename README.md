@@ -13,7 +13,10 @@ Team repository at <https://github.com/CS546-Team/Library_System> where you can 
 
 Since it's hard to group all of teamates together everyday, the usage of github and VSCode Live Share are important. Testing website is extremely important to find bugs and place to be improved. Thus we use documents/Feedback.md for people to give their feedbacks and ChangeLog.md to say if things are fixed or unhandled and why
 
-## Commands for Test
+## Installation
+
+For installing bcrypt, following instructions on this page:  
+<https://github.com/kelektiv/node.bcrypt.js/wiki/Installation-Instructions#microsoft-windows>
 
 Install Environment:  
 npm install
